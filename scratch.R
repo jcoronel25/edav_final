@@ -37,3 +37,4 @@ rm(somedata)
 
 datafull <- load("311_Full_v2.Rdata")
 ls()
+rm(datafull)
